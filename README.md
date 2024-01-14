@@ -1,3 +1,4 @@
 # Beginning
-My first repository
+My first Git repository.
+<br>
 Author - Nawsher Ahmed 
